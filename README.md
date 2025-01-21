@@ -22,3 +22,6 @@ Back pages: 9-16, 25-32, 41-48, 57-63
 Then simply copy the first range into the print interface (1-8, 17-24, 33-40, 49-56),
 let it print, making sure to have the pages in the correct order and fed to the printer
 then print again using the second range
+
+### NOTE: If your printing interface has the 'Reverse Order' option you can reverse the order of printing
+### on the front pages, so that you don't have to reorder them first to last for the back print
