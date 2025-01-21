@@ -1,6 +1,6 @@
 # AutoPageSetup
 
-Usage:
+### Usage:
 
 Enter the total number of pages of your pdf/word/whatever file you want to print
 
@@ -10,7 +10,7 @@ Get the ranges you will need to enter in the print interface to make this print 
 in front and back pages (meaning you will print the front pages, reorder them and feed them back
 to the printer on the opposite side so you can print both sides of each sheet)
 
-Example:
+### Example:
 I have a pdf with 63 pages, that I want to print with 4 pages per sheet, front and back
 
 I enter Total pages: 63, Pages per sheet: 4
